@@ -100,7 +100,7 @@ ai-product-lab-groupname/
 *   **Đồng bộ dữ liệu:** Hãy đảm bảo trước giờ nộp bài, các file cá nhân của các thành viên (như các ý tưởng trong `01-problem-scan.md` hay cảm nhận trong `03-ai-log.md`) đã được tổng hợp chung vào các file mẫu tương ứng tại thư mục gốc của repository nhóm.
 
 ---
-
+ 
 ## 📝 3.5. Hướng dẫn chi tiết cách hoàn thiện các file nộp bài
 
 Dưới đây là nội dung và cách thức thực hiện chi tiết cho từng file để đảm bảo đạt điểm tối đa theo Rubric chấm:

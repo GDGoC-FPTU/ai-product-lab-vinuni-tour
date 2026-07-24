@@ -1,7 +1,7 @@
 # Lab 02 — Worksheet: AI Product Scoping (Vin Smart Future)
 
 ---
-
+ 
 ## 🏛️ 1. Bối cảnh thực tế: Vin Smart Future (Vingroup)
 
 **Vingroup** — Tập đoàn tư nhân lớn nhất Việt Nam — vừa sáp nhập toàn bộ các phòng ban công nghệ thuộc các công ty thành viên thành một đơn vị công nghệ thống nhất mang tên **Vin Smart Future**. 
