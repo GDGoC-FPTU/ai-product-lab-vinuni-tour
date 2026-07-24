@@ -13,10 +13,6 @@ Instructions:
 import os
 import sys
 from typing import Any
-from dotenv import load_dotenv
-from pathlib import Path
-
-load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 # Standard Model Identifier
 GEMINI_MODEL = "gemini-2.5-flash"
